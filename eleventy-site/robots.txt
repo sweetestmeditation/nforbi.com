@@ -1,0 +1,4 @@
+Sitemap: https://nforbi.com/sitemap.xml
+
+User-agent: *
+Disallow:
