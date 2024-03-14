@@ -4,7 +4,7 @@ This guide will help you set up your personal webpage and portfolio site using E
 
 ## Prerequisites
 
-- Node.js and npm installed on your system. You can download and install Node.js from [here](https://nodejs.org/).
+Node.js and npm installed on your system. You can download and install Node.js from [here](https://nodejs.org/).
 
 ## Step 1: Initialize Your Project
 
@@ -17,25 +17,32 @@ This guide will help you set up your personal webpage and portfolio site using E
 ## Step 3: Install Plugins and Dependencies
 
 - npm install @11ty/eleventy-plugin-syntaxhighlight
+
 - npm install @cdransf/eleventy-plugin-tabler-icons
+
 - npm install @rknightuk/eleventy-plugin-post-graph
+
 - npm install markdown-it markdown-it-anchor markdown-it-footnote html-minifier-terser
+
 - npm install dotenv-flow
+
 - npm install @11ty/eleventy-img
+
 - npm install writing-stats
+
 - npm install @aws-sdk/client-s3
 
 ## Step 4: Run Eleventy
 
-- To generate your site and serve it locally, run:
+To generate your site and serve it locally, run:
 
 - npx eleventy --serve
 
 
 ## Additional Notes
 
-- Customize your site by editing the templates, styles, and content in the src directory.
-- Refer to the Eleventy documentation for advanced customization options and features.
+Customize your site by editing the templates, styles, and content in the src directory.
+Refer to the Eleventy documentation for advanced customization options and features.
 
 ## Contributing
 
