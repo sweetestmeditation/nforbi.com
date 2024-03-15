@@ -1,6 +1,6 @@
 # nforbi.com | Portfolio Site
 ## Overview
-This is a responsive personal portfolio website showcasing projects, contact information, and other relevant details. The site features a dark and light mode, dynamic content loading on scroll, and a real contact form. It is built using HTML, CSS, and JavaScript.
+Just about as Vanilla as it gets, this is a responsive personal portfolio website showcasing projects, contact information, and other relevant details. The site features a dark and light mode, dynamic content loading on scroll, and a real contact form. It is built using HTML, CSS, and JavaScript.
 
 ## Features
 - Dark and Light Mode: Toggle between dark and light themes for improved readability and user preference.
