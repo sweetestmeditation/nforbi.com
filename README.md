@@ -24,7 +24,9 @@ Open index.html in your web browser to view the site.
 Customize the content, styles, and functionality as needed for your personal portfolio.
 
 ## Contributors
-Brendan Ngwa Nforbi (Owner)
+Cory Dransfeldt
+Brendan Ngwa Nforbi
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
