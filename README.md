@@ -12,11 +12,11 @@ Just about as Vanilla as it gets, this is a responsive personal portfolio websit
 Check out the live demo: nforbi.com
 
 ## Assets
-Portfolio Images: The portfolio section features images from various themes, including Promodise, Sleek, Dot, and Reporter.
-Icons: Utilizes icons from Figma community resources, including Icon Set 1 and Icon Set 2.
-JS Libraries: Integrates various JavaScript libraries for animations (AOS), cursor customization (Kursor), content sliders (Swiper), CSS variable support (css-vars-ponyfill), SVG rendering (svg4everybody), and fetch API polyfill (unfetch).
-Fonts: Employs the Inter and Plus Jakarta Sans fonts from Google Fonts.
-CSS: Utilizes Eric Meyer's CSS reset tool for improved cross-browser consistency.
+Portfolio Images: The portfolio section features images from various themes, including Promodise, Sleek, Dot, and Reporter. |
+Icons: Utilizes icons from Figma community resources, including Icon Set 1 and Icon Set 2. | 
+JS Libraries: Integrates various JavaScript libraries for animations (AOS), cursor customization (Kursor), content sliders (Swiper), CSS variable support (css-vars-ponyfill), SVG rendering (svg4everybody), and fetch API polyfill (unfetch). | 
+Fonts: Employs the Inter and Plus Jakarta Sans fonts from Google Fonts. | 
+CSS: Utilizes Eric Meyer's CSS reset tool for improved cross-browser consistency. |
 
 ## Usage
 Clone the repository.
